@@ -1,3 +1,3 @@
-Laya.init(600, 400);
+Laya.init(800, 400);
 
 
